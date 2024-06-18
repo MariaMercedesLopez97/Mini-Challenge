@@ -1,4 +1,4 @@
-#DIA 5
+#DIA 6
 #Conversión de Temperatura: Escribe un programa que convierta una temperatura dada en grados Celsius a
 #  grados Fahrenheit.
 
